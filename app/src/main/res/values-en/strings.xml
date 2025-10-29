@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercise1</string>
+    <string name="txtDigite">"Enter the current values of each fuel "</string>
+    <string name="etanol">Ethanol ($)</string>
+    <string name="gasolina">Gasoline ($)</string>
+    <string name="calcular">Calculate</string>
+    <string name="alt1">Is it worth buying:</string>
+</resources>

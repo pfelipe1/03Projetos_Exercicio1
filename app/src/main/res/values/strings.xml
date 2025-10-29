@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ex1</string>
+    <string name="txtDigite">Values</string>
+    <string name="etanol">Ethanol</string>
+    <string name="gasolina">Gasoline</string>
+    <string name="calcular">Calc</string>
+    <string name="alt1">Is it worth buying:</string>
+
+
+
+</resources>
